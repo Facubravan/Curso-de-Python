@@ -1,2 +1,3 @@
 # primer-repositorio
-me dejaste morir 
+- me dejaste morir 
+- ya subí los ejercicios 
