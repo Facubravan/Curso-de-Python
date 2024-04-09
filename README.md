@@ -3,3 +3,4 @@
 - ya subí los ejercicios 
 - hice un commit por interfaz gráfica
 - subí el primer práctico 
+-subí segundo y tercer prácticos
